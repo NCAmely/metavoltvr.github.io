@@ -74,11 +74,11 @@ p.Header{
 .bigHeader{
     font-size: 70px;
     font-family: 'Trebuchet MS';
-    color: #13284c;
+    color: #ced1d4;
     text-align: center;
 }
 .darkgray{
-    background-color: #ced1d4/*rgb(150,150,150)*/;
+    background-color: #13284c/*rgb(150,150,150)*/;
 }
 .gray{
     background-color: white/*rgb(225,225,225)*/;
